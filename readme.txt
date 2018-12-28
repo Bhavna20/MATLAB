@@ -1,6 +1,6 @@
 Created by : Bhavna Joshi
 This is the text file describing the data and the matlab files for the paper " Oil price shocks and sectoral stock markets in an emerging economy" 
-The data is stored on the excel file and contains data on the following variables from JAN 2000 to 2018:5
+The data is stored on the excel file and contains data on the following variables from JAN 2000:1 to 2018:5
 1) Global Oil production obtained from EIA
 2) Real economic activity obtained from Lutz Kilian's website
 3) Real oil price obtained by adjusting the brent cude oil price for inflation using the CPI in USA
