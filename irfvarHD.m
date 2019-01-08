@@ -1,7 +1,5 @@
 % IRFVAR.M
-% Lutz Kilian
-% University of Michigan
-% April 1997
+
 
 function [IRF]=irfvarHD(A,SIGMA,p,h)
 
