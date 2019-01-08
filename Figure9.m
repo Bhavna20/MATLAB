@@ -42,8 +42,10 @@ title('Aggregate Demand Shock')
 subplot(3,3,3)
 plot(time,cumirf4hat,'b-',time,cumirf4a,'b--',time,cumirf4b,'b:',time,zeros(size(time)),'k-');
 ylabel('Healthcare')
-
 title('Oil-Market Specific Demand Shock')
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Metals%%%%%%%%%%%%%%%%%%%%%55
+
+
 clear;
 TrivarP;
 Ehat=inv(chol(SIGMA)')*Uhat(1:q,:);
@@ -86,7 +88,7 @@ title('Oil-Market Specific Demand Shock')
 %%%%%%%%%%%%%oil&Gas%%%%%%%%%%%%
 clear;
 
-trivarown
+TrivarP;
 Ehat=inv(chol(SIGMA)')*Uhat(1:q,:);
 q1=Ehat(1,:); 
 q2=Ehat(2,:); 
