@@ -40,7 +40,7 @@ xlabel('Months')
 %%%%%%%%%%%%%%%%Consumer durables%%%%%5
 clear;
 
-trivarown
+TrivarP;
 Ehat=inv(chol(SIGMA)')*Uhat(1:q,:);
 q1=Ehat(1,:); 
 q2=Ehat(2,:); 
