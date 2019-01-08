@@ -1,4 +1,4 @@
-% FIGURE9.M: Computes the historical decomposition of the real price of oil
+% FIGURE6.M: Computes the historical decomposition of the real price of oil
 % Equation-by-equation estimates with bootstrap confidence intervals
 
 clear;
