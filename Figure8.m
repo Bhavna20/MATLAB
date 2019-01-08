@@ -1,4 +1,4 @@
-% Equation-by-equation estimates with bootstrap confidence intervals
+% Figure8.Equation-by-equation estimates with bootstrap confidence intervals
 clear;
 HD;
 
