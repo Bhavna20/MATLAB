@@ -83,9 +83,9 @@ ylabel('Utilities')
 title('Oil-Market Specific Demand Shock')
 xlabel('Months')
 
-%%%%%%%%%%%%%%%%%%Finance%%%%%%%
+%%%%%%%%%%%%%%%%%%Power%%%%%%%
 clear all;
-trivarown
+TrivarP;
 
 % Compute structural shocks Ehat
 Ehat=inv(chol(SIGMA)')*Uhat(1:q,:);
@@ -94,7 +94,7 @@ q2=Ehat(2,61:end);
 q3=Ehat(3,61:end);
 time=0:24;
 
-%%%%maybe power%%%%%%%%%%
+
 
 [data, headers]=xlsread('Data.xlsx','STock');
 data=data(1:end-2,:);
