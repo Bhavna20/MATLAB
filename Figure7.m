@@ -1,4 +1,4 @@
-% FIGURE10.M - Plot the impulse response functions of aggregate stock
+% FIGURE7.M - Plot the impulse response functions of aggregate stock
 % return to the oil shocks
 clc;
 clear all;
